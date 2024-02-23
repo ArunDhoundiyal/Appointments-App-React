@@ -1,0 +1,27 @@
+.list-item-card-container {
+  border: #b5b7c4 solid 1px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  width: 250px;
+  justify-content: space-around;
+  margin: 10px;
+}
+.title-style {
+  color: #171f46;
+  font-weight: bold;
+  font-family: roboto;
+}
+.date-style {
+  font-size: 14px;
+  color: #b5b7c4;
+  font-weight: bold;
+}
+.star-button {
+  border: solid 0px;
+  background-color: transparent;
+  margin-top: 12px;
+}
+.list-container {
+  margin-left: 12px;
+}
